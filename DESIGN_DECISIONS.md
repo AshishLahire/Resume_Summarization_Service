@@ -4,8 +4,8 @@
 
 **Project**: AI-Powered Document Summarization Tool  
 **Technology**: Flask + Google Gemini API  
-**Author**: Priyanka
-**Date**: November 2025
+**Author**: Ashish
+**Date**: January 2026
 
 ---
 
