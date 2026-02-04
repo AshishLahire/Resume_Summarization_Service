@@ -5,7 +5,7 @@ AI-powered document summarization using Google Generative AI (Gemini)
 
 ## 🚀 Live Demo
  
-### 🔗(Render): https://service-master-1.onrender.com
+### 🔗(Render): https://resume-summarization-service-1.onrender.com
  
 
 
